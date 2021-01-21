@@ -10,7 +10,7 @@ using UnityEngine;
     /// <summary>
     /// <see cref="#SCRIPTNAME#"/> is the class that ***.
     /// </summary>
-    public class #SCRIPTNAME# : MonoBehaviour
+    public class #SCRIPTNAME#
     {
         /// <summary>
         /// Constructor initializes that a new instance of <see cref="#SCRIPTNAME#"/> class.
